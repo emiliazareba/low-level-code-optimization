@@ -87,9 +87,8 @@ Każdy algorytm został:
 - Emilia Zaręba  
 - Katarzyna Zieleniewska
 
----
 
-## ⚠️ Informacja
+## Informacja
 
 Projekt ma charakter **edukacyjny** i służy analizie wydajności oraz technik optymalizacji
 algorytmów niskopoziomowych.
